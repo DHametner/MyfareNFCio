@@ -33,3 +33,6 @@
 
 # Visual Studio project folder
 /.vs/
+
+# build folder
+/out/*
