@@ -35,4 +35,4 @@
 /.vs/
 
 # build folder
-/out/*
+#/out/*
